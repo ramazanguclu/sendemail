@@ -1,0 +1,24 @@
+npm install --save passport passport-google-oauth20
+
+//for working to server(client server- backend server) 
+npm install --save concurrently
+
+npm install --save stripe
+npm install --save sendgrid
+npm install --save localtunnel
+npm install --save-dev forever
+npm install --save lodash
+npm install --save path-parser
+
+//react
+npm install -g create-react-app
+create-react-app client (nodejs console u kullan�ld�)
+create-react-app client
+npm install --save redux react-redux react-router-dom
+
+
+//client
+npm install --save materialize-css
+npm install --save axios redux-thunk
+npm install --save react-stripe-checkout
+npm install --save redux-form
